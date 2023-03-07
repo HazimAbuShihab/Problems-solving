@@ -1,0 +1,16 @@
+D:\Problems-solving\Two Sum\bin\Debug\net5.0\Two Sum.exe
+D:\Problems-solving\Two Sum\bin\Debug\net5.0\Two Sum.deps.json
+D:\Problems-solving\Two Sum\bin\Debug\net5.0\Two Sum.runtimeconfig.json
+D:\Problems-solving\Two Sum\bin\Debug\net5.0\Two Sum.runtimeconfig.dev.json
+D:\Problems-solving\Two Sum\bin\Debug\net5.0\Two Sum.dll
+D:\Problems-solving\Two Sum\bin\Debug\net5.0\Two Sum.pdb
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\Two Sum.csproj.AssemblyReference.cache
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\Two Sum.AssemblyInfoInputs.cache
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\Two Sum.AssemblyInfo.cs
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\Two Sum.csproj.CoreCompileInputs.cache
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\Two Sum.dll
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\refint\Two Sum.dll
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\Two Sum.pdb
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\Two Sum.genruntimeconfig.cache
+D:\Problems-solving\Two Sum\obj\Debug\net5.0\ref\Two Sum.dll

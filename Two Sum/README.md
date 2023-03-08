@@ -7,7 +7,8 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
 ## Method
 ```bash
-public int[] TwoSum(int[] nums, int target) {
+public int[] TwoSum(int[] nums, int target) 
+{
 
 }
 ```

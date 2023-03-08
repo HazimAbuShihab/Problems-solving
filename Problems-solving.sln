@@ -7,6 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{A6447E9A-F63F-4D2B-818A-983ED9ABEB03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.csproj", "{FCB4C021-ABC4-43F5-B77B-09D37333FC09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE1C7FDF-0D34-4F2C-B232-7DB1F01D7BEC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +28,10 @@ Global
 		{A6447E9A-F63F-4D2B-818A-983ED9ABEB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6447E9A-F63F-4D2B-818A-983ED9ABEB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6447E9A-F63F-4D2B-818A-983ED9ABEB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB4C021-ABC4-43F5-B77B-09D37333FC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB4C021-ABC4-43F5-B77B-09D37333FC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB4C021-ABC4-43F5-B77B-09D37333FC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB4C021-ABC4-43F5-B77B-09D37333FC09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

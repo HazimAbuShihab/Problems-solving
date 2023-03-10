@@ -1,0 +1,16 @@
+D:\Problems-solving\LongestSubstring\bin\Debug\net5.0\LongestSubstring.exe
+D:\Problems-solving\LongestSubstring\bin\Debug\net5.0\LongestSubstring.deps.json
+D:\Problems-solving\LongestSubstring\bin\Debug\net5.0\LongestSubstring.runtimeconfig.json
+D:\Problems-solving\LongestSubstring\bin\Debug\net5.0\LongestSubstring.runtimeconfig.dev.json
+D:\Problems-solving\LongestSubstring\bin\Debug\net5.0\LongestSubstring.dll
+D:\Problems-solving\LongestSubstring\bin\Debug\net5.0\LongestSubstring.pdb
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\LongestSubstring.csproj.AssemblyReference.cache
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\LongestSubstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\LongestSubstring.AssemblyInfoInputs.cache
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\LongestSubstring.AssemblyInfo.cs
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\LongestSubstring.csproj.CoreCompileInputs.cache
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\LongestSubstring.dll
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\refint\LongestSubstring.dll
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\LongestSubstring.pdb
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\LongestSubstring.genruntimeconfig.cache
+D:\Problems-solving\LongestSubstring\obj\Debug\net5.0\ref\LongestSubstring.dll

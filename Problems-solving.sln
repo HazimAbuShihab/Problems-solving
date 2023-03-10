@@ -18,7 +18,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longestword", "Longestword\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaesarCipherAlgorithm", "CaesarCipherAlgorithm\CaesarCipherAlgorithm.csproj", "{81B57815-024F-4206-94A7-96065D167FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteOnTextFile", "WriteOnTextFile\WriteOnTextFile.csproj", "{21F5DBAA-2DEF-4CDB-B1BF-E2C9C7942151}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriteOnTextFile", "WriteOnTextFile\WriteOnTextFile.csproj", "{21F5DBAA-2DEF-4CDB-B1BF-E2C9C7942151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstring", "LongestSubstring\LongestSubstring.csproj", "{FE154BB2-BB90-4D64-8B15-617623312410}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +52,10 @@ Global
 		{21F5DBAA-2DEF-4CDB-B1BF-E2C9C7942151}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21F5DBAA-2DEF-4CDB-B1BF-E2C9C7942151}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21F5DBAA-2DEF-4CDB-B1BF-E2C9C7942151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE154BB2-BB90-4D64-8B15-617623312410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE154BB2-BB90-4D64-8B15-617623312410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE154BB2-BB90-4D64-8B15-617623312410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE154BB2-BB90-4D64-8B15-617623312410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

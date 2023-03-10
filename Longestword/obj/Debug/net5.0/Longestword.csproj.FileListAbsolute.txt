@@ -1,0 +1,16 @@
+D:\Problems-solving\Longestword\bin\Debug\net5.0\Longestword.exe
+D:\Problems-solving\Longestword\bin\Debug\net5.0\Longestword.deps.json
+D:\Problems-solving\Longestword\bin\Debug\net5.0\Longestword.runtimeconfig.json
+D:\Problems-solving\Longestword\bin\Debug\net5.0\Longestword.runtimeconfig.dev.json
+D:\Problems-solving\Longestword\bin\Debug\net5.0\Longestword.dll
+D:\Problems-solving\Longestword\bin\Debug\net5.0\Longestword.pdb
+D:\Problems-solving\Longestword\obj\Debug\net5.0\Longestword.csproj.AssemblyReference.cache
+D:\Problems-solving\Longestword\obj\Debug\net5.0\Longestword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problems-solving\Longestword\obj\Debug\net5.0\Longestword.AssemblyInfoInputs.cache
+D:\Problems-solving\Longestword\obj\Debug\net5.0\Longestword.AssemblyInfo.cs
+D:\Problems-solving\Longestword\obj\Debug\net5.0\Longestword.csproj.CoreCompileInputs.cache
+D:\Problems-solving\Longestword\obj\Debug\net5.0\Longestword.dll
+D:\Problems-solving\Longestword\obj\Debug\net5.0\refint\Longestword.dll
+D:\Problems-solving\Longestword\obj\Debug\net5.0\Longestword.pdb
+D:\Problems-solving\Longestword\obj\Debug\net5.0\Longestword.genruntimeconfig.cache
+D:\Problems-solving\Longestword\obj\Debug\net5.0\ref\Longestword.dll

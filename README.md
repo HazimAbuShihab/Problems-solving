@@ -12,3 +12,7 @@ This is a collection of solutions to be a reference for me.
 * [**_Caesar cipher algorithm_**]()
 
 ### Hard:
+
+## Tools:
+* [**_Write on text file_**]()
+* [**_Read data from text file_**]()

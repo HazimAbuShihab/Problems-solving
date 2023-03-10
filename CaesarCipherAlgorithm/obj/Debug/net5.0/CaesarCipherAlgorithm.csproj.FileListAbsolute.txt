@@ -1,0 +1,16 @@
+D:\Problems-solving\CaesarCipherAlgorithm\bin\Debug\net5.0\CaesarCipherAlgorithm.exe
+D:\Problems-solving\CaesarCipherAlgorithm\bin\Debug\net5.0\CaesarCipherAlgorithm.deps.json
+D:\Problems-solving\CaesarCipherAlgorithm\bin\Debug\net5.0\CaesarCipherAlgorithm.runtimeconfig.json
+D:\Problems-solving\CaesarCipherAlgorithm\bin\Debug\net5.0\CaesarCipherAlgorithm.runtimeconfig.dev.json
+D:\Problems-solving\CaesarCipherAlgorithm\bin\Debug\net5.0\CaesarCipherAlgorithm.dll
+D:\Problems-solving\CaesarCipherAlgorithm\bin\Debug\net5.0\CaesarCipherAlgorithm.pdb
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\CaesarCipherAlgorithm.csproj.AssemblyReference.cache
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\CaesarCipherAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\CaesarCipherAlgorithm.AssemblyInfoInputs.cache
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\CaesarCipherAlgorithm.AssemblyInfo.cs
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\CaesarCipherAlgorithm.csproj.CoreCompileInputs.cache
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\CaesarCipherAlgorithm.dll
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\refint\CaesarCipherAlgorithm.dll
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\CaesarCipherAlgorithm.pdb
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\CaesarCipherAlgorithm.genruntimeconfig.cache
+D:\Problems-solving\CaesarCipherAlgorithm\obj\Debug\net5.0\ref\CaesarCipherAlgorithm.dll

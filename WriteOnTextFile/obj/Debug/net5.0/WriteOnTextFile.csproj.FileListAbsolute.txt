@@ -1,0 +1,16 @@
+D:\Problems-solving\WriteOnTextFile\bin\Debug\net5.0\WriteOnTextFile.exe
+D:\Problems-solving\WriteOnTextFile\bin\Debug\net5.0\WriteOnTextFile.deps.json
+D:\Problems-solving\WriteOnTextFile\bin\Debug\net5.0\WriteOnTextFile.runtimeconfig.json
+D:\Problems-solving\WriteOnTextFile\bin\Debug\net5.0\WriteOnTextFile.runtimeconfig.dev.json
+D:\Problems-solving\WriteOnTextFile\bin\Debug\net5.0\WriteOnTextFile.dll
+D:\Problems-solving\WriteOnTextFile\bin\Debug\net5.0\WriteOnTextFile.pdb
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\WriteOnTextFile.csproj.AssemblyReference.cache
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\WriteOnTextFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\WriteOnTextFile.AssemblyInfoInputs.cache
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\WriteOnTextFile.AssemblyInfo.cs
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\WriteOnTextFile.csproj.CoreCompileInputs.cache
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\WriteOnTextFile.dll
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\refint\WriteOnTextFile.dll
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\WriteOnTextFile.pdb
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\WriteOnTextFile.genruntimeconfig.cache
+D:\Problems-solving\WriteOnTextFile\obj\Debug\net5.0\ref\WriteOnTextFile.dll

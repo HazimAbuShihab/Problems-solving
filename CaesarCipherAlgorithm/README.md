@@ -4,7 +4,7 @@ Have the function **_CaesarCipher(str, num)_** take the **_str_** parameter and 
 A Caesar Cipher works by shifting each letter in the string N places in the alphabet (in this case N will be **_num_**). Punctuation, spaces, and capitalization should remain intact.
 
 ## Method
-```bash
+```C#
 public static string CaesarCipher(string str,int num)
 {
 
